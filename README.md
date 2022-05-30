@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @norton287
 - 👀 I’m interested in Xamrin.Forms
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on my private app My Simple Grocery List
+- 💞️ I’m looking to collaborate on my private app Azure Simple Blob Manager
 - 📫 How to reach me support@spindlecrank.com
 
 <!---
