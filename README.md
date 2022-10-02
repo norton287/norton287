@@ -10,13 +10,13 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16209](https://github.com/xamarin/xamarin-macios/issues/16209) in [xamarin/xamarin-macios](https://github.com/xamarin/xamarin-macios)
-2. ❗️ Opened issue [#16209](https://github.com/xamarin/xamarin-macios/issues/16209) in [xamarin/xamarin-macios](https://github.com/xamarin/xamarin-macios)
-3. 🗣 Commented on [#21](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS/issues/21) in [thisisthekap/Xamarin.RevenueCat.iOS](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS)
+2. 🗣 Commented on [#16209](https://github.com/xamarin/xamarin-macios/issues/16209) in [xamarin/xamarin-macios](https://github.com/xamarin/xamarin-macios)
+3. ❗️ Opened issue [#16209](https://github.com/xamarin/xamarin-macios/issues/16209) in [xamarin/xamarin-macios](https://github.com/xamarin/xamarin-macios)
 4. 🗣 Commented on [#21](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS/issues/21) in [thisisthekap/Xamarin.RevenueCat.iOS](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS)
 5. 🗣 Commented on [#21](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS/issues/21) in [thisisthekap/Xamarin.RevenueCat.iOS](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS)
 6. 🗣 Commented on [#21](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS/issues/21) in [thisisthekap/Xamarin.RevenueCat.iOS](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS)
-7. ❌ Closed PR [#1](https://github.com/norton287/Editor/pull/1) in [norton287/Editor](https://github.com/norton287/Editor)
-8. 🗣 Commented on [#180](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet/issues/180) in [AzureAD/microsoft-authentication-extensions-for-dotnet](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet)
+7. 🗣 Commented on [#21](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS/issues/21) in [thisisthekap/Xamarin.RevenueCat.iOS](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS)
+8. ❌ Closed PR [#1](https://github.com/norton287/Editor/pull/1) in [norton287/Editor](https://github.com/norton287/Editor)
 9. 🗣 Commented on [#180](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet/issues/180) in [AzureAD/microsoft-authentication-extensions-for-dotnet](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet)
 10. 🗣 Commented on [#180](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet/issues/180) in [AzureAD/microsoft-authentication-extensions-for-dotnet](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet)
 <!--END_SECTION:activity-->
