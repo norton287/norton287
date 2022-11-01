@@ -9,14 +9,14 @@ norton287/norton287 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS/issues/21) in [thisisthekap/Xamarin.RevenueCat.iOS](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS)
+1. ❗️ Opened issue [#11039](https://github.com/dotnet/maui/issues/11039) in [dotnet/maui](https://github.com/dotnet/maui)
 2. 🗣 Commented on [#21](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS/issues/21) in [thisisthekap/Xamarin.RevenueCat.iOS](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS)
-3. 🗣 Commented on [#180](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet/issues/180) in [AzureAD/microsoft-authentication-extensions-for-dotnet](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet)
+3. 🗣 Commented on [#21](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS/issues/21) in [thisisthekap/Xamarin.RevenueCat.iOS](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS)
 4. 🗣 Commented on [#180](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet/issues/180) in [AzureAD/microsoft-authentication-extensions-for-dotnet](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet)
 5. 🗣 Commented on [#180](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet/issues/180) in [AzureAD/microsoft-authentication-extensions-for-dotnet](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet)
 6. 🗣 Commented on [#180](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet/issues/180) in [AzureAD/microsoft-authentication-extensions-for-dotnet](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet)
-7. 🗣 Commented on [#9938](https://github.com/xamarin/xamarin-macios/issues/9938) in [xamarin/xamarin-macios](https://github.com/xamarin/xamarin-macios)
-8. 🗣 Commented on [#16209](https://github.com/xamarin/xamarin-macios/issues/16209) in [xamarin/xamarin-macios](https://github.com/xamarin/xamarin-macios)
+7. 🗣 Commented on [#180](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet/issues/180) in [AzureAD/microsoft-authentication-extensions-for-dotnet](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet)
+8. 🗣 Commented on [#9938](https://github.com/xamarin/xamarin-macios/issues/9938) in [xamarin/xamarin-macios](https://github.com/xamarin/xamarin-macios)
 9. 🗣 Commented on [#16209](https://github.com/xamarin/xamarin-macios/issues/16209) in [xamarin/xamarin-macios](https://github.com/xamarin/xamarin-macios)
 10. 🗣 Commented on [#16209](https://github.com/xamarin/xamarin-macios/issues/16209) in [xamarin/xamarin-macios](https://github.com/xamarin/xamarin-macios)
 <!--END_SECTION:activity-->
