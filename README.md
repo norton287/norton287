@@ -10,12 +10,12 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#967](https://github.com/MicrosoftDocs/azure-dev-docs/issues/967) in [MicrosoftDocs/azure-dev-docs](https://github.com/MicrosoftDocs/azure-dev-docs)
-2. ❗️ Opened issue [#967](https://github.com/MicrosoftDocs/azure-dev-docs/issues/967) in [MicrosoftDocs/azure-dev-docs](https://github.com/MicrosoftDocs/azure-dev-docs)
-3. ❗️ Opened issue [#11476](https://github.com/dotnet/maui/issues/11476) in [dotnet/maui](https://github.com/dotnet/maui)
-4. ❗️ Opened issue [#11039](https://github.com/dotnet/maui/issues/11039) in [dotnet/maui](https://github.com/dotnet/maui)
-5. 🗣 Commented on [#21](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS/issues/21) in [thisisthekap/Xamarin.RevenueCat.iOS](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS)
+2. 🗣 Commented on [#967](https://github.com/MicrosoftDocs/azure-dev-docs/issues/967) in [MicrosoftDocs/azure-dev-docs](https://github.com/MicrosoftDocs/azure-dev-docs)
+3. ❗️ Opened issue [#967](https://github.com/MicrosoftDocs/azure-dev-docs/issues/967) in [MicrosoftDocs/azure-dev-docs](https://github.com/MicrosoftDocs/azure-dev-docs)
+4. ❗️ Opened issue [#11476](https://github.com/dotnet/maui/issues/11476) in [dotnet/maui](https://github.com/dotnet/maui)
+5. ❗️ Opened issue [#11039](https://github.com/dotnet/maui/issues/11039) in [dotnet/maui](https://github.com/dotnet/maui)
 6. 🗣 Commented on [#21](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS/issues/21) in [thisisthekap/Xamarin.RevenueCat.iOS](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS)
-7. 🗣 Commented on [#180](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet/issues/180) in [AzureAD/microsoft-authentication-extensions-for-dotnet](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet)
+7. 🗣 Commented on [#21](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS/issues/21) in [thisisthekap/Xamarin.RevenueCat.iOS](https://github.com/thisisthekap/Xamarin.RevenueCat.iOS)
 8. 🗣 Commented on [#180](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet/issues/180) in [AzureAD/microsoft-authentication-extensions-for-dotnet](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet)
 9. 🗣 Commented on [#180](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet/issues/180) in [AzureAD/microsoft-authentication-extensions-for-dotnet](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet)
 10. 🗣 Commented on [#180](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet/issues/180) in [AzureAD/microsoft-authentication-extensions-for-dotnet](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet)
