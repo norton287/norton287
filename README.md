@@ -11,12 +11,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#78990](https://github.com/dotnet/runtime/issues/78990) in [dotnet/runtime](https://github.com/dotnet/runtime)
 2. 🗣 Commented on [#78990](https://github.com/dotnet/runtime/issues/78990) in [dotnet/runtime](https://github.com/dotnet/runtime)
-3. 🗣 Commented on [#967](https://github.com/MicrosoftDocs/azure-dev-docs/issues/967) in [MicrosoftDocs/azure-dev-docs](https://github.com/MicrosoftDocs/azure-dev-docs)
-4. 🗣 Commented on [#40](https://github.com/hekkaaa/NetObserver/issues/40) in [hekkaaa/NetObserver](https://github.com/hekkaaa/NetObserver)
+3. 🗣 Commented on [#78990](https://github.com/dotnet/runtime/issues/78990) in [dotnet/runtime](https://github.com/dotnet/runtime)
+4. 🗣 Commented on [#967](https://github.com/MicrosoftDocs/azure-dev-docs/issues/967) in [MicrosoftDocs/azure-dev-docs](https://github.com/MicrosoftDocs/azure-dev-docs)
 5. 🗣 Commented on [#40](https://github.com/hekkaaa/NetObserver/issues/40) in [hekkaaa/NetObserver](https://github.com/hekkaaa/NetObserver)
-6. ❗️ Opened issue [#78990](https://github.com/dotnet/runtime/issues/78990) in [dotnet/runtime](https://github.com/dotnet/runtime)
-7. 🗣 Commented on [#967](https://github.com/MicrosoftDocs/azure-dev-docs/issues/967) in [MicrosoftDocs/azure-dev-docs](https://github.com/MicrosoftDocs/azure-dev-docs)
+6. 🗣 Commented on [#40](https://github.com/hekkaaa/NetObserver/issues/40) in [hekkaaa/NetObserver](https://github.com/hekkaaa/NetObserver)
+7. ❗️ Opened issue [#78990](https://github.com/dotnet/runtime/issues/78990) in [dotnet/runtime](https://github.com/dotnet/runtime)
 8. 🗣 Commented on [#967](https://github.com/MicrosoftDocs/azure-dev-docs/issues/967) in [MicrosoftDocs/azure-dev-docs](https://github.com/MicrosoftDocs/azure-dev-docs)
-9. ❗️ Opened issue [#11706](https://github.com/dotnet/maui/issues/11706) in [dotnet/maui](https://github.com/dotnet/maui)
-10. 🗣 Commented on [#40](https://github.com/hekkaaa/NetObserver/issues/40) in [hekkaaa/NetObserver](https://github.com/hekkaaa/NetObserver)
+9. 🗣 Commented on [#967](https://github.com/MicrosoftDocs/azure-dev-docs/issues/967) in [MicrosoftDocs/azure-dev-docs](https://github.com/MicrosoftDocs/azure-dev-docs)
+10. ❗️ Opened issue [#11706](https://github.com/dotnet/maui/issues/11706) in [dotnet/maui](https://github.com/dotnet/maui)
 <!--END_SECTION:activity-->
