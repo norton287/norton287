@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @norton287
-- 👀 I’m interested in Xamrin.Forms
+- 👀 I’m interested in Xamrin.Forms and .NET MAUI
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on my private app Azure Simple Blob Manager
+- 💞️ I’m looking to collaborate on my private app Azure Simple Storage Manager
 - 📫 How to reach me support@spindlecrank.com
 
 <!---
