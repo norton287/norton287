@@ -13,10 +13,10 @@ You can click the Preview link to take a look at your changes.
 2. 🗣 Commented on [#41](https://github.com/hekkaaa/NetObserver/issues/41) in [hekkaaa/NetObserver](https://github.com/hekkaaa/NetObserver)
 3. 🗣 Commented on [#41](https://github.com/hekkaaa/NetObserver/issues/41) in [hekkaaa/NetObserver](https://github.com/hekkaaa/NetObserver)
 4. 🗣 Commented on [#41](https://github.com/hekkaaa/NetObserver/issues/41) in [hekkaaa/NetObserver](https://github.com/hekkaaa/NetObserver)
-5. 🗣 Commented on [#78990](https://github.com/dotnet/runtime/issues/78990) in [dotnet/runtime](https://github.com/dotnet/runtime)
+5. 🗣 Commented on [#41](https://github.com/hekkaaa/NetObserver/issues/41) in [hekkaaa/NetObserver](https://github.com/hekkaaa/NetObserver)
 6. 🗣 Commented on [#78990](https://github.com/dotnet/runtime/issues/78990) in [dotnet/runtime](https://github.com/dotnet/runtime)
 7. 🗣 Commented on [#78990](https://github.com/dotnet/runtime/issues/78990) in [dotnet/runtime](https://github.com/dotnet/runtime)
-8. 🗣 Commented on [#41](https://github.com/hekkaaa/NetObserver/issues/41) in [hekkaaa/NetObserver](https://github.com/hekkaaa/NetObserver)
-9. 🗣 Commented on [#78990](https://github.com/dotnet/runtime/issues/78990) in [dotnet/runtime](https://github.com/dotnet/runtime)
+8. 🗣 Commented on [#78990](https://github.com/dotnet/runtime/issues/78990) in [dotnet/runtime](https://github.com/dotnet/runtime)
+9. 🗣 Commented on [#41](https://github.com/hekkaaa/NetObserver/issues/41) in [hekkaaa/NetObserver](https://github.com/hekkaaa/NetObserver)
 10. 🗣 Commented on [#78990](https://github.com/dotnet/runtime/issues/78990) in [dotnet/runtime](https://github.com/dotnet/runtime)
 <!--END_SECTION:activity-->
