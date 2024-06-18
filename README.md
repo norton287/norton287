@@ -4,6 +4,58 @@
 - 💞️ I’m looking to collaborate on any server back end platforms
 - 📫 How to reach me support@spindlecrank.com
 
+ ```php
+ <?php
+
+namespace John;
+
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Spindlecrank.com',
+                'position' => 'Head Cook'         
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            C#::class,
+            C++::class,
+            Python::class,
+            MicroPython::class,
+            Shell Scripting::class,
+            HTML5::class,
+            TailwindCss::class,
+            Azure::class,
+            AWS::class,
+            Docker::class,
+            Linux::class,
+            SBC::class,
+            Embedded::class,
+            Cluster Computing::class,
+            Networking::class,
+            Cloud Computing::class,
+            Virtualization::class,
+            Mobile Development::class,
+            Cloud Storage Management::class,
+            VPC::class           
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To learn something new everyday and if not then improve upon what I learned yesterday.';
+    }
+}
+```
+
 <!---
 norton287/norton287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
