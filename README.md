@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @norton287
 - 👀 I’m interested in Embedded and SBC Programming and Servers
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning MicroPython
 - 💞️ I’m looking to collaborate on any server back end platforms
 - 📫 How to reach me support@spindlecrank.com
 
