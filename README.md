@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @norton287
 - 👀 I’m interested in Embedded and SBC Programming and Servers
 - 🌱 I’m currently learning MicroPython
-- 💞️ I’m looking to collaborate on any server back end platforms
 - 📫 How to reach me support@spindlecrank.com
-- Efficient in: 
+
+## Efficient in: 
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
