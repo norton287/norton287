@@ -1,3 +1,4 @@
+## Howdy:
 - 👋 Hi, I’m @norton287
 - 👀 I’m interested in Embedded and SBC Programming and Servers
 - 🌱 I’m currently learning MicroPython
@@ -23,6 +24,7 @@
 - ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 - ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+## System Start ....:
  ```php
  <?php
 namespace John;
@@ -74,6 +76,7 @@ class About extends Me
 }
 ```
 
+## Organized crime or repos I may or may not have been involved with:
 <!---
 norton287/norton287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
