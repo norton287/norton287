@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning MicroPython
 - 📫 How to reach me support@spindlecrank.com
 
+## Server Status
+- ![healthchecks.io](https://healthchecks.io/badge/ebe9c584-7457-4b2f-a274-e12de8/TFwnQmJt-2.svg)
+
 ## Efficient in: 
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
