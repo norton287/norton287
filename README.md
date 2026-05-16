@@ -5,7 +5,9 @@
 - 📫 How to reach me support@spindlecrank.com
 
 ## Server Status
-- ![healthchecks.io](https://healthchecks.io/badge/ebe9c584-7457-4b2f-a274-e12de8/TFwnQmJt-2.svg)
+- ![Super](https://healthchecks.io/b/2/37475311-81c8-4110-8db8-529e4606b351.svg)
+- ![Mini](https://healthchecks.io/b/2/46d3d607-3eb5-4d28-9d7e-c05dd1ef0e30.svg)
+- ![Glue](https://healthchecks.io/b/2/5a33df39-d796-4823-8e3f-7b97edd1204f.svg)
 
 ## Efficient in: 
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
